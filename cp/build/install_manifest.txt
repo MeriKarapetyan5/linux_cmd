@@ -1,1 +1,0 @@
-/home/meri/Codes/Linux_cmd/bin/cp

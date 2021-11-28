@@ -1,7 +1,0 @@
-/home/meri/Codes/linux_cmd/cd/build/CMakeFiles/install/strip.dir
-/home/meri/Codes/linux_cmd/cd/build/CMakeFiles/install/local.dir
-/home/meri/Codes/linux_cmd/cd/build/CMakeFiles/install.dir
-/home/meri/Codes/linux_cmd/cd/build/CMakeFiles/list_install_components.dir
-/home/meri/Codes/linux_cmd/cd/build/CMakeFiles/rebuild_cache.dir
-/home/meri/Codes/linux_cmd/cd/build/CMakeFiles/edit_cache.dir
-/home/meri/Codes/linux_cmd/cd/build/CMakeFiles/cd.dir
