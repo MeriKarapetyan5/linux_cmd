@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(myprojects)
+add_subdirectory(cd)
+add_subdirectory(cp)
+add_subdirectory(mv)
+add_subdirectory(rm)

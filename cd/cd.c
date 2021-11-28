@@ -22,8 +22,5 @@ int main(int argc, char** argv) {
   }
 
   printf("Changed directory is %s\n", getcwd(buffer, 100));
-
-
-
   return 0;
 }

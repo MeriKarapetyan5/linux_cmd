@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meri/Codes/linux_cmd/rm/rm.c
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+sys/stat.h
+-
+
