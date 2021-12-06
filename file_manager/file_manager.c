@@ -2,7 +2,7 @@
 //exit-0, cd-1, cp-2, mv-3, rm-4
 
 #include <stdio.h>
-#include <sys/types>
+#include <sys/types.h>
 #include <unistd.h>
 #include <stdlib.h>
 
